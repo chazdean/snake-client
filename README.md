@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](#)
-!["screenshot description"](#)
+!["Game Start"](images/snek.png)
+!["User Message during gameplay"](images/snekTwo.png)
 
 
 ## Getting Started
