@@ -22,10 +22,10 @@ const connect = function() {
    /*  setInterval(() => {
       conn.write('Move: up');
     }, 100); */
-
   });
  
   return conn;
 };
+
 
 module.exports = { connect };
