@@ -17,18 +17,18 @@ The images below are screenshots from actual gameplay footage
 
 - Follow steps inside the [snek](https://github.com/taniarascia/snek) server repo to run the server side.
 - Run the development snake client using the `node play.js` command to start the game.
-- Remember to change the varibles in `constants.js` before running the game to ensure your 🐍 is labeled correctly and you are using the correct `IP` and `PORT` numbers.
+- Remember to change the varibles in `constants.js` before running the game to ensure your 🐍 &ensp;is labeled correctly and you are using the correct `IP` and `PORT` numbers.
 
 ## Controls 🎮
 
-Movement Keys:
-  w: up
-  a: left
-  s: down
-  d: right
+Movement Keys: <br />
+  w: up <br />
+  a: left <br />
+  s: down <br />
+  d: right <br />
 
-In-Game Message Keys:
-  z: YES!
-  x: Too slow
-  c: Keep Up!
+In-Game Message Keys: <br />
+  z: YES! <br />
+  x: Too slow <br />
+  c: Keep Up! <br />
   v: GG
