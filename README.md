@@ -8,11 +8,27 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
+The images below are screenshots from actual gameplay footage
 !["Game Start"](images/snek.png)
 !["User Message during gameplay"](images/snekTwo.png)
 
 
 ## Getting Started
 
-- Follow steps inside the [snek](https://github.com/taniarascia/snek) server repo to run the server side
-- Run the development snake client using the `node play.js` command.
+- Follow steps inside the [snek](https://github.com/taniarascia/snek) server repo to run the server side.
+- Run the development snake client using the `node play.js` command to start the game.
+- Remember to change the varibles in `constants.js` before running the game to ensure your 🐍 is labeled correctly and you are using the correct `IP` and `PORT` numbers.
+
+## Controls 🎮
+
+Movement Keys:
+  w: up
+  a: left
+  s: down
+  d: right
+
+In-Game Message Keys:
+  z: YES!
+  x: Too slow
+  c: Keep Up!
+  v: GG

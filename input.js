@@ -15,7 +15,7 @@ const setupInput = (conn) => {
 };
 
 const handleUserInput = (key) => {
-  if (key === '\u0003') {
+  if (key === '\u0003') { // Crtl + C
     process.exit();
   }
   if (movementKeys[key]) {

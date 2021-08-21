@@ -1,5 +1,6 @@
 const IP = '10.0.2.15';
 const PORT = 50541;
+const Name = "CHZ";
 
 const movementKeys = {
   w: "Move: up",
@@ -11,12 +12,14 @@ const movementKeys = {
 const messages = {
   z: "Say: YES!",
   x: "Say: Too slow!",
-  c: "Say: Keep Up!"
+  c: "Say: Keep Up!",
+  v: "Say: GG"
 };
 
 module.exports = {
   IP,
   PORT,
+  Name,
   movementKeys,
   messages
 };
